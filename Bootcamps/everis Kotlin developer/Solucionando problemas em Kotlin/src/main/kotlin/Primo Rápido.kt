@@ -5,12 +5,10 @@ import kotlin.math.sqrt
 fun main(args: Array<String>) {
     val n = readLine()!!.toInt()
 
-
     for (i in 0 until n) {
         val x = readLine()!!.toDouble()
         val prime = isPrime(x)
         print(prime)
-
 
     }
 }
