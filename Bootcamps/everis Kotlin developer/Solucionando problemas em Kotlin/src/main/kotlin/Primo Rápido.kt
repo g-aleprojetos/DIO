@@ -1,29 +1,36 @@
 
+
+import kotlin.math.sqrt
+
 fun main(args: Array<String>) {
-    //continue a solução
     val n = readLine()!!.toInt()
-    var num: Int
 
 
-    for(i in 1..n) {
-        num = readLine()!!.toInt()
-        val t = kotlin.math.sqrt(num.toDouble()).toInt() + 1
-        var qtdDivisores = true
+    for (i in 0 until n) {
+        val x = readLine()!!.toDouble()
+        val prime = isPrime(x)
+        print(prime)
 
-        for (i in 2..t) {
-            if ((num % i) == 0) {
-                qtdDivisores = false
-            }
-        }
-
-        if (num == 1 || num == 2 || qtdDivisores) {
-            println("Prime")
-
-        } else {
-            println("Not Prime")
-
-        }
 
     }
+}
+
+fun print(prime: Boolean) {
+    if (prime) {
+        print("Prime\n")
+    } else print("Not Prime\n")
+}
+
+fun isPrime(num: Double): Boolean {
+
+    if (num < 2) return false
+    if (num % 2 == 0.0) return num == 2.0
+    val root = sqrt(num).toInt()
+    var i = 3
+    while (i <= root) {
+        if (num % i == 0.0) return false
+        i += 2
+    }
+    return true
 
 }
