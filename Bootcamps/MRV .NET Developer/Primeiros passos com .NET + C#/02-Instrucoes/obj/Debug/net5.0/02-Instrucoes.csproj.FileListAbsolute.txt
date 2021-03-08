@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.exe
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.deps.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\bin\Debug\net5.0\ref\02-Instrucoes.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.pdb
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\obj\Debug\net5.0\ref\02-Instrucoes.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.pdb
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.genruntimeconfig.cache
