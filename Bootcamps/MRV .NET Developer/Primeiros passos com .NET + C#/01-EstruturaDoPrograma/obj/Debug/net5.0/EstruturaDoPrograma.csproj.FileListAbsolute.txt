@@ -1,0 +1,32 @@
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache

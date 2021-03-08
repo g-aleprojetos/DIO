@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\Dio.exe
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\Dio.deps.json
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\Dio.runtimeconfig.json
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\Dio.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\Dio.dll
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\ref\Dio.dll
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\bin\Debug\net5.0\Dio.pdb
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\Dio.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\Dio.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\Dio.AssemblyInfo.cs
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\Dio.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\Dio.dll
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\ref\Dio.dll
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\Dio.pdb
+C:\Users\DELL\Documents\myprojects2\DigitalInnovatioOne\Dio\obj\Debug\net5.0\Dio.genruntimeconfig.cache
