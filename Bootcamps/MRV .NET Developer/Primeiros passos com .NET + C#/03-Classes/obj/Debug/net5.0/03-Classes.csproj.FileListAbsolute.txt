@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\bin\Debug\net5.0\03-Classes.exe
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\bin\Debug\net5.0\03-Classes.deps.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\bin\Debug\net5.0\03-Classes.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\bin\Debug\net5.0\03-Classes.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\bin\Debug\net5.0\03-Classes.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\bin\Debug\net5.0\ref\03-Classes.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\bin\Debug\net5.0\03-Classes.pdb
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\obj\Debug\net5.0\03-Classes.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\obj\Debug\net5.0\03-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\obj\Debug\net5.0\03-Classes.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\obj\Debug\net5.0\03-Classes.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\obj\Debug\net5.0\03-Classes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\obj\Debug\net5.0\03-Classes.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\obj\Debug\net5.0\ref\03-Classes.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\obj\Debug\net5.0\03-Classes.pdb
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\03-Classes\obj\Debug\net5.0\03-Classes.genruntimeconfig.cache
