@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\bin\Debug\net5.0\04-Revisao.exe
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\bin\Debug\net5.0\04-Revisao.deps.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\bin\Debug\net5.0\04-Revisao.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\bin\Debug\net5.0\04-Revisao.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\bin\Debug\net5.0\04-Revisao.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\bin\Debug\net5.0\ref\04-Revisao.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\bin\Debug\net5.0\04-Revisao.pdb
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\obj\Debug\net5.0\04-Revisao.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\obj\Debug\net5.0\04-Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\obj\Debug\net5.0\04-Revisao.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\obj\Debug\net5.0\04-Revisao.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\obj\Debug\net5.0\04-Revisao.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\obj\Debug\net5.0\04-Revisao.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\obj\Debug\net5.0\ref\04-Revisao.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\obj\Debug\net5.0\04-Revisao.pdb
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Primeiros passos com .NET + C#\04-Revisao\obj\Debug\net5.0\04-Revisao.genruntimeconfig.cache
