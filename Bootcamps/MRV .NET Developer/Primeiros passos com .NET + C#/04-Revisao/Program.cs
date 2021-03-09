@@ -46,7 +46,42 @@ namespace _04_Revisao
                         break;
 
                     case "3":
-                        //todo: calcular media geral
+                        decimal notaTotal = 0;
+                        var nrAlunos = 0;
+                        for(int i = 0; i < alunos.Length; i++)
+                        {
+                            if (!string.IsNullOrEmpty(alunos[i].Nome))
+                            {
+                                notaTotal = notaTotal + alunos[i].Nota;
+                                nrAlunos++;
+                            }
+                        }
+                        var mediaGeral = notaTotal / nrAlunos;
+                        Conceito conceitoGeral;
+
+                        if ( mediaGeral < 2 )
+                        {
+                            conceitoGeral = Conceito.E;
+                        }
+                        else if( mediaGeral >= 2 && mediaGeral < 4 )
+                        {
+                            conceitoGeral = Conceito.D;
+                        }
+                        else if( mediaGeral >= 4 && mediaGeral < 6)
+                        {
+                            conceitoGeral = Conceito.C;
+                        }
+                        else if ( mediaGeral >= 6 && mediaGeral < 8 )
+                        {
+                            conceitoGeral = Conceito.B;
+                        }
+                        else
+                        {
+                            conceitoGeral = Conceito.A;
+                        }
+
+
+                        System.Console.WriteLine($"Média geral: {mediaGeral} - Conceito: {conceitoGeral}");
                         break;
 
                     default:
@@ -61,11 +96,14 @@ namespace _04_Revisao
         private static string ObterOpcaoUsuario()
         {
             System.Console.WriteLine();
-            System.Console.WriteLine("Informe a opção desejada\n");
-            System.Console.WriteLine("1- Inserir novo aluno");
-            System.Console.WriteLine("2- Listar alunos");
-            System.Console.WriteLine("3- Calcular média geral");
-            System.Console.WriteLine("x- Sair");
+            System.Console.WriteLine("****************************");
+            System.Console.WriteLine("* Informe a opção desejada *");
+            System.Console.WriteLine("*                          *");
+            System.Console.WriteLine("* 1- Inserir novo aluno    *");
+            System.Console.WriteLine("* 2- Listar alunos         *");
+            System.Console.WriteLine("* 3- Calcular média geral  *");
+            System.Console.WriteLine("* x- Sair                  *");
+            System.Console.WriteLine("****************************");
             System.Console.WriteLine();
 
             string opcaoUsuario = Console.ReadLine();
