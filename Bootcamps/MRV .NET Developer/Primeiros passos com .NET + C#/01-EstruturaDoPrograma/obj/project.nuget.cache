@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HJQYcq7xfcmIQxSPXcafMqAYL22KODcjxQVngtdXEH9Chrm4SxdfnUJcapEplDRBTazasE5NeagQ4zG++uvTSQ==",
+  "dgSpecHash": "DrXwN91nJ5iOY9ABlR6l7DJ1qd8+f+h/11eiueZmHmoiN6l0s/mtdkMkn+nvuOdJNZmPinBNqQeiuN0/ofodwQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\Primeiros passos com .NET + C#\\01-EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\bin\Debug\net5.0\desafio01.exe
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\bin\Debug\net5.0\desafio01.deps.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\bin\Debug\net5.0\desafio01.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\bin\Debug\net5.0\desafio01.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\bin\Debug\net5.0\desafio01.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\bin\Debug\net5.0\ref\desafio01.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\bin\Debug\net5.0\desafio01.pdb
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\obj\Debug\net5.0\desafio01.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\obj\Debug\net5.0\desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\obj\Debug\net5.0\desafio01.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\obj\Debug\net5.0\desafio01.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\obj\Debug\net5.0\desafio01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\obj\Debug\net5.0\desafio01.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\obj\Debug\net5.0\ref\desafio01.dll
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\obj\Debug\net5.0\desafio01.pdb
+C:\Users\DELL\Documents\myProjects\Dio\Bootcamps\MRV .NET Developer\Solução de problemas básicos em C#\desafio01\obj\Debug\net5.0\desafio01.genruntimeconfig.cache
