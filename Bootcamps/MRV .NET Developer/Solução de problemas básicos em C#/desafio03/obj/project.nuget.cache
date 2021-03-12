@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivrZyF1uWNWX/z4PkvS0V85E45fSb1LFLXNZGXaUvxdp4GjZwjpqId3PFF3GoF93yi014vOWcxPqY5owYAfpIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio03\\desafio03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
