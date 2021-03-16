@@ -24,7 +24,7 @@ namespace desafio03
                 }
                 
             }
-            Console.WriteLine("media = {0:0.00}", (nota /2)); //insira a variavel correta
+            Console.WriteLine("media = {0:0.00}", (soma /2)); //insira a variavel correta
 
         }
     }

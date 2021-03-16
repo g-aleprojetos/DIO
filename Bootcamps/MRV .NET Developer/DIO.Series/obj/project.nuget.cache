@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q5sEOkVqFCIRSXZBK9B/RyRT5246Hqtl+dWJqk4X0Rm6QEIPCffc8C/2eNNmHKw6XebjApNUTXuO6WlHvCUOdA==",
+  "dgSpecHash": "UeWpDw+kqvVWkPS5sn/tkG+t9tJtUPZBx6NWXj5IsI6UfSP4jTqiVX8nnFFFinl3v7U52SSJc1fanj5CEa3VCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\DIO.Series\\DIO.Series.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\myProjects\\DIO\\Bootcamps\\MRV .NET Developer\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

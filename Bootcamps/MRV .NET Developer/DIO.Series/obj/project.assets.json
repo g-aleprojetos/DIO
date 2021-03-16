@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\DIO.Series\\DIO.Series.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\myProjects\\DIO\\Bootcamps\\MRV .NET Developer\\DIO.Series\\DIO.Series.csproj",
       "projectName": "DIO.Series",
-      "projectPath": "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\DIO.Series\\DIO.Series.csproj",
+      "projectPath": "C:\\Users\\DELL\\Documents\\myProjects\\DIO\\Bootcamps\\MRV .NET Developer\\DIO.Series\\DIO.Series.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\DIO.Series\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\myProjects\\DIO\\Bootcamps\\MRV .NET Developer\\DIO.Series\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

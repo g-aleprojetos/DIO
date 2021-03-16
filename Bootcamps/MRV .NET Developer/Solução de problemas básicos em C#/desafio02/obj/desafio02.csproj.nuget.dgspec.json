@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio02\\desafio02.csproj": {}
+    "C:\\Users\\DELL\\Documents\\myProjects\\DIO\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio02\\desafio02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio02\\desafio02.csproj": {
+    "C:\\Users\\DELL\\Documents\\myProjects\\DIO\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio02\\desafio02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio02\\desafio02.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\myProjects\\DIO\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio02\\desafio02.csproj",
         "projectName": "desafio02",
-        "projectPath": "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio02\\desafio02.csproj",
+        "projectPath": "C:\\Users\\DELL\\Documents\\myProjects\\DIO\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio02\\desafio02.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Documents\\myProjects\\Dio\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio02\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\myProjects\\DIO\\Bootcamps\\MRV .NET Developer\\Solução de problemas básicos em C#\\desafio02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
