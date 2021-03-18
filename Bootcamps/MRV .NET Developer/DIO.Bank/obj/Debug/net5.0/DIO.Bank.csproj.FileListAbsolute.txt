@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\MRV .NET Developer\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
