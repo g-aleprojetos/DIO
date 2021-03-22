@@ -24,6 +24,11 @@ namespace CursoMVC.Controllers
             return View(await _context.Categoria.ToListAsync());
         }
 
+        private IActionResult View(object p)
+        {
+            throw new NotImplementedException();
+        }
+
         // GET: Categorias/Details/5
         public async Task<IActionResult> Details(int? id)
         {
