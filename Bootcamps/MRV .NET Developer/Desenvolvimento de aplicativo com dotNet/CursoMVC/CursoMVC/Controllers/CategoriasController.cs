@@ -21,7 +21,7 @@ namespace CursoMVC.Controllers
         // GET: Categorias
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Categorias.ToListAsync());
+            return View(await _context.Categoria.ToListAsync());
         }
 
         // GET: Categorias/Details/5
@@ -32,7 +32,7 @@ namespace CursoMVC.Controllers
                 return NotFound();
             }
 
-            var categoria = await _context.Categorias
+            var categoria = await _context.Categoria
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (categoria == null)
             {
@@ -72,7 +72,7 @@ namespace CursoMVC.Controllers
                 return NotFound();
             }
 
-            var categoria = await _context.Categorias.FindAsync(id);
+            var categoria = await _context.Categoria.FindAsync(id);
             if (categoria == null)
             {
                 return NotFound();
@@ -123,7 +123,7 @@ namespace CursoMVC.Controllers
                 return NotFound();
             }
 
-            var categoria = await _context.Categorias
+            var categoria = await _context.Categoria
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (categoria == null)
             {
@@ -138,15 +138,15 @@ namespace CursoMVC.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var categoria = await _context.Categorias.FindAsync(id);
-            _context.Categorias.Remove(categoria);
+            var categoria = await _context.Categoria.FindAsync(id);
+            _context.Categoria.Remove(categoria);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool CategoriaExists(int id)
         {
-            return _context.Categorias.Any(e => e.Id == id);
+            return _context.Categoria.Any(e => e.Id == id);
         }
     }
 }

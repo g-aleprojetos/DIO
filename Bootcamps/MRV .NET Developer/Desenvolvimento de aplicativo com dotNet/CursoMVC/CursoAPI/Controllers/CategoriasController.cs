@@ -24,14 +24,14 @@ namespace CursoAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Categoria>>> GetCategoria()
         {
-            return await _context.Categorias.ToListAsync();
+            return await _context.Categoria.ToListAsync();
         }
 
         // GET: api/Categorias/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Categoria>> GetCategoria(int id)
         {
-            var categoria = await _context.Categorias.FindAsync(id);
+            var categoria = await _context.Categoria.FindAsync(id);
 
             if (categoria == null)
             {
@@ -79,7 +79,7 @@ namespace CursoAPI.Controllers
         [HttpPost]
         public async Task<ActionResult<Categoria>> PostCategoria(Categoria categoria)
         {
-            _context.Categorias.Add(categoria);
+            _context.Categoria.Add(categoria);
             await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetCategoria", new { id = categoria.Id }, categoria);
@@ -89,13 +89,13 @@ namespace CursoAPI.Controllers
         [HttpDelete("{id}")]
         public async Task<ActionResult<Categoria>> DeleteCategoria(int id)
         {
-            var categoria = await _context.Categorias.FindAsync(id);
+            var categoria = await _context.Categoria.FindAsync(id);
             if (categoria == null)
             {
                 return NotFound();
             }
 
-            _context.Categorias.Remove(categoria);
+            _context.Categoria.Remove(categoria);
             await _context.SaveChangesAsync();
 
             return categoria;
@@ -103,7 +103,7 @@ namespace CursoAPI.Controllers
 
         private bool CategoriaExists(int id)
         {
-            return _context.Categorias.Any(e => e.Id == id);
+            return _context.Categoria.Any(e => e.Id == id);
         }
     }
 }

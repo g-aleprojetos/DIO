@@ -8,7 +8,7 @@ namespace CursoMVC.Models
 {
     public class Context: DbContext
     {
-        public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Categoria> Categoria { get; set; }
 
         public DbSet<Produto> Produtos { get; set; }
 
