@@ -15,4 +15,4 @@ Projeto Base para Testes - .Net Core
 [Github](https://github.com/marcosfreire) 
 
 ## Slides
-[Slides em PDF](TesteNetCore.pdf)
+[Slides em PDF](TesteNetCore.pdf)  
