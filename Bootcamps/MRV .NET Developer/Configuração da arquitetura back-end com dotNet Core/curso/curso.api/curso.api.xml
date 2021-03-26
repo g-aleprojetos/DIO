@@ -18,10 +18,16 @@
         </member>
         <member name="M:curso.api.Controllers.UsuarioController.Logar(curso.api.Models.Usuarios.LoginViewModelInput)">
             <summary>
-            teste
+            Este serviço permite autenticar um usuário cadastrado e ativo
             </summary>
             <param name="loginViewModelInput"></param>
             <returns>Retorna status ok, dados do usuário e o token em caso de sucesso</returns>
+        </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Registrar(curso.api.Models.Usuarios.RegistrarViewModelInput)">
+            <summary>
+            Este serviço permite cadastrar um usuário não exixtente
+            </summary>
+            <param name="loginViewModelInput">View model do registro de login</param>
         </member>
     </members>
 </doc>
