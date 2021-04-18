@@ -1,4 +1,20 @@
-@ifs "%DEBUG%" == "" @echo off
+@rem
+@rem Copyright 2015 the original author or authors.
+@rem
+@rem Licensed under the Apache License, Version 2.0 (the "License");
+@rem you may not use this file except in compliance with the License.
+@rem You may obtain a copy of the License at
+@rem
+@rem      https://www.apache.org/licenses/LICENSE-2.0
+@rem
+@rem Unless required by applicable law or agreed to in writing, software
+@rem distributed under the License is distributed on an "AS IS" BASIS,
+@rem WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+@rem See the License for the specific language governing permissions and
+@rem limitations under the License.
+@rem
+
+@if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
 @rem  Gradle startup script for Windows
@@ -6,22 +22,25 @@
 @rem ##########################################################################
 
 @rem Set local scope for the variables with windows NT shell
-ifs "%OS%"=="Windows_NT" setlocal
+if "%OS%"=="Windows_NT" setlocal
 
 set DIRNAME=%~dp0
-ifs "%DIRNAME%" == "" set DIRNAME=.
+if "%DIRNAME%" == "" set DIRNAME=.
 set APP_BASE_NAME=%~n0
 set APP_HOME=%DIRNAME%
 
+@rem Resolve any "." and ".." in APP_HOME to make it shorter.
+for %%i in ("%APP_HOME%") do set APP_HOME=%%~fi
+
 @rem Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
-set DEFAULT_JVM_OPTS=
+set DEFAULT_JVM_OPTS="-Xmx64m" "-Xms64m"
 
 @rem Find java.exe
-ifs defined JAVA_HOME goto findJavaFromJavaHome
+if defined JAVA_HOME goto findJavaFromJavaHome
 
 set JAVA_EXE=java.exe
 %JAVA_EXE% -version >NUL 2>&1
-ifs "%ERRORLEVEL%" == "0" goto init
+if "%ERRORLEVEL%" == "0" goto init
 
 echo.
 echo ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
@@ -35,7 +54,7 @@ goto fail
 set JAVA_HOME=%JAVA_HOME:"=%
 set JAVA_EXE=%JAVA_HOME%/bin/java.exe
 
-ifs exist "%JAVA_EXE%" goto init
+if exist "%JAVA_EXE%" goto init
 
 echo.
 echo ERROR: JAVA_HOME is set to an invalid directory: %JAVA_HOME%
@@ -48,7 +67,7 @@ goto fail
 :init
 @rem Get command-line arguments, handling Windows variants
 
-ifs not "%OS%" == "Windows_NT" goto win9xME_args
+if not "%OS%" == "Windows_NT" goto win9xME_args
 
 :win9xME_args
 @rem Slurp the command line arguments.
@@ -56,7 +75,7 @@ set CMD_LINE_ARGS=
 set _SKIP=2
 
 :win9xME_args_slurp
-ifs "x%~1" == "x" goto execute
+if "x%~1" == "x" goto execute
 
 set CMD_LINE_ARGS=%*
 
@@ -70,15 +89,15 @@ set CLASSPATH=%APP_HOME%\gradle\wrapper\gradle-wrapper.jar
 
 :end
 @rem End local scope for the variables with windows NT shell
-ifs "%ERRORLEVEL%"=="0" goto mainEnd
+if "%ERRORLEVEL%"=="0" goto mainEnd
 
 :fail
-rem Set variable GRADLE_EXIT_CONSOLE ifs you need the _script_ return code instead of
+rem Set variable GRADLE_EXIT_CONSOLE if you need the _script_ return code instead of
 rem the _cmd.exe /c_ return code!
-ifs  not "" == "%GRADLE_EXIT_CONSOLE%" exit 1
+if  not "" == "%GRADLE_EXIT_CONSOLE%" exit 1
 exit /b 1
 
 :mainEnd
-ifs "%OS%"=="Windows_NT" endlocal
+if "%OS%"=="Windows_NT" endlocal
 
 :omega
