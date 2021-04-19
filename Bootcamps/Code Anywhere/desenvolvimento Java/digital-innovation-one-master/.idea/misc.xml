@@ -6,4 +6,5 @@
     <file type="web" url="file://$PROJECT_DIR$/cities-api" />
     <file type="web" url="file://$PROJECT_DIR$/debug-de-codigo" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="jbr-11" project-jdk-type="JavaSDK" />
 </project>

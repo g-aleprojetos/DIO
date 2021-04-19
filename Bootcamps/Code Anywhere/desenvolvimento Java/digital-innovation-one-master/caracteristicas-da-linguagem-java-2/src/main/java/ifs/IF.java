@@ -12,8 +12,7 @@ public class IF {
       System.out.println("A condição é falsa");
     }
 
-    if (condicao)
-      System.out.println("Uma única linha...");
+    if (condicao) System.out.println("Uma única linha...");
 
     final var ternario = condicao ? "é verdadeira" : "é falsa";
 
