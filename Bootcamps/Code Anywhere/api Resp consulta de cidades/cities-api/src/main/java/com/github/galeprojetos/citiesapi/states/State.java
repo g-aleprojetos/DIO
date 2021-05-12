@@ -1,4 +1,4 @@
-package com.github.galeprojetos.citiesapi.staties;
+package com.github.galeprojetos.citiesapi.states;
 
 
 import com.github.galeprojetos.citiesapi.countries.Country;
