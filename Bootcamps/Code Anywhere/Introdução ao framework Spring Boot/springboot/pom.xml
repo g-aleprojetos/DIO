@@ -13,6 +13,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot</name>
 	<description>Demo project for Spring Boot</description>
+
+
+
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -34,6 +37,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>3.8.1.RELEASE</version>
 			</plugin>
 		</plugins>
 	</build>
