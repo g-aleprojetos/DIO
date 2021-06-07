@@ -1,19 +1,10 @@
-package com.digitalinnovaionone.restfull.dto;
+package com.digitalinnovaionone.restfull.request;
 
-public class Soldado {
+public class SoldadoEditRequest {
 
-    private String cpf;
     private String nome;
     private String raca;
     private String arma;
-
-    public String getCpf() {
-        return cpf;
-    }
-
-    public void setCpf(String cpf) {
-        this.cpf = cpf;
-    }
 
     public String getNome() {
         return nome;
@@ -38,8 +29,5 @@ public class Soldado {
     public void setArma(String arma) {
         this.arma = arma;
     }
-
-
-
 
 }
