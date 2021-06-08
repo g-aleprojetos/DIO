@@ -2,9 +2,11 @@ package digitalinnovation.example.restfull.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import digitalinnovation.example.restfull.controller.request.SoldadoEditRequest;
+import digitalinnovation.example.restfull.controller.response.SoldadoListResponse;
 import digitalinnovation.example.restfull.controller.response.SoldadoResponse;
 import digitalinnovation.example.restfull.dto.Soldado;
 import digitalinnovation.example.restfull.service.SoldadoService;
+import org.springframework.hateoas.Resources;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -49,11 +51,15 @@ public class SoldadoController {
         return ResponseEntity.ok().build();
     }
 
+    @PutMapping("/frente-castelo/{id}")
+    public ResponseEntity frenteCastelo(@PathVariable Long id) {
+   //fazer algo
+        return ResponseEntity.ok().build();
+    }
+
     @GetMapping
-    public ResponseEntity<List<SoldadoResponse>> buscarSoldados() {
-        List<SoldadoResponse> soldados = soldadoService.buscarSoldados().stream()
-                .map(it -> objectMapper.convertValue(it, SoldadoResponse.class))
-                .collect(Collectors.toList());
-        return ResponseEntity.status(HttpStatus.OK).body(soldados);
+    public ResponseEntity<Resources<SoldadoListResponse>> buscarSoldados() {
+        Resources<SoldadoListResponse> soldadoListResponses = soldadoService.buscarSoldados();
+        return ResponseEntity.status(HttpStatus.OK).body(soldadoListResponses);
     }
 }

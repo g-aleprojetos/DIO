@@ -2,10 +2,13 @@ package digitalinnovation.example.restfull.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import digitalinnovation.example.restfull.controller.request.SoldadoEditRequest;
+import digitalinnovation.example.restfull.controller.response.SoldadoListResponse;
 import digitalinnovation.example.restfull.controller.response.SoldadoResponse;
 import digitalinnovation.example.restfull.dto.Soldado;
 import digitalinnovation.example.restfull.entity.SoldadoEntity;
 import digitalinnovation.example.restfull.repostory.SoldadoRepository;
+import digitalinnovation.example.restfull.resource.ResourceSoldado;
+import org.springframework.hateoas.Resources;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -16,15 +19,17 @@ public class SoldadoService {
 
     private SoldadoRepository soldadoRepository;
     private ObjectMapper objectMapper;
+    private ResourceSoldado resourceSoldado;
 
-    public SoldadoService(SoldadoRepository soldadoRepository, ObjectMapper objectMapper) {
+    public SoldadoService(SoldadoRepository soldadoRepository, ObjectMapper objectMapper,ResourceSoldado resourceSoldado) {
         this.soldadoRepository = soldadoRepository;
         this.objectMapper = objectMapper;
+        this.resourceSoldado = resourceSoldado;
     }
 
     public SoldadoResponse buscarSoldado(Long id) {
         SoldadoEntity soldado = soldadoRepository.findById(id).orElseThrow();
-        SoldadoResponse soldadoResponse = objectMapper.convertValue(soldado, SoldadoResponse.class);
+       SoldadoResponse soldadoResponse = resourceSoldado.criarLinkDetalhe(soldado);
         return soldadoResponse;
     }
 
@@ -44,11 +49,11 @@ public class SoldadoService {
         soldadoRepository.delete(soldado);
     }
 
-    public List<Soldado> buscarSoldados(){
+    public org.springframework.hateoas.Resources<SoldadoListResponse> buscarSoldados(){
         List<SoldadoEntity> all = soldadoRepository.findAll();
-        List<Soldado> soldadoStream = all.stream()
-                .map(it -> objectMapper.convertValue(it, Soldado.class))
+        List<SoldadoListResponse> soldadoStream = all.stream()
+                .map(it -> resourceSoldado.criarLink(it))
                 .collect(Collectors.toList());
-        return soldadoStream;
+        return new Resources<>(soldadoStream);
     }
 }
