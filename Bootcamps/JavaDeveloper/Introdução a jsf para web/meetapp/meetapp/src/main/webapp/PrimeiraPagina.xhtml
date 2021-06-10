@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:f="http://xmlns.jcp.org/jsf/core">
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Primeira Página</title>
+</h:head>
+<h:body>
+	<h1>Olá mundo!</h1>
+
+	<h:form>
+		<h:panelGrid colums="2">
+
+			<h:outputText value="Nome" />
+			<h:inputText />
+
+			<h:outputText value="Senha" />
+			<h:inputSecret />
+
+			<h:outputText value="checkbox" />
+			<h:selectManyCheckbox>
+				<f:selectItem itemLabel="Java 11" itemValue="Java11" />
+				<f:selectItem itemLabel="Java 8" itemValue="Java8" />
+				<f:selectItem itemLabel="Java 14" itemValue="Java14" />
+			</h:selectManyCheckbox>
+
+			<h:outputText value="combobox" />
+			<h:selectOneMenu>
+				<f:selectItem itemLabel="Java 11" itemValue="Java11" />
+				<f:selectItem itemLabel="Java 8" itemValue="Java8" />
+				<f:selectItem itemLabel="Java 14" itemValue="Java14" />
+			</h:selectOneMenu>
+
+			<h:outputText value="radio"/>
+			<h:selectOneRadio>
+				<f:selectItem itemLabel="Eduardo" itemValue="José" />
+				<f:selectItem itemLabel="José" itemValue="Eduardo" />
+			</h:selectOneRadio>
+			
+			<h:inputTextarea />
+
+			<h:commandButton value="Enviar" />
+
+
+		</h:panelGrid>
+	</h:form>
+</h:body>
+</html>
