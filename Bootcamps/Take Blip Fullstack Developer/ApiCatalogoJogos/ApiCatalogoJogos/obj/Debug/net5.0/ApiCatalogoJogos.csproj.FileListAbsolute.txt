@@ -11,7 +11,6 @@ C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\A
 C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csprojAssemblyReference.cache
 C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfoInputs.cache
 C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfo.cs
@@ -27,3 +26,11 @@ C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\A
 C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ref\ApiCatalogoJogos.dll
 C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.pdb
 C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.genruntimeconfig.cache
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\ApiCatalogoJogos.xml
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\myProjects\DIO\Bootcamps\Take Blip Fullstack Developer\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
