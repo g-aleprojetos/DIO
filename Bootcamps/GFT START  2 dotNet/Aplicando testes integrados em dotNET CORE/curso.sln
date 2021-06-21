@@ -11,7 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7BF1768C-EAB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{76BAC6DE-8DAB-4D0C-A634-4238A952816E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curso.api.tests", "tests\curso.api.tests\curso.api.tests.csproj", "{4585F540-E2AF-4121-952C-16411F6DE6CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "curso.api.tests", "tests\curso.api.tests\curso.api.tests.csproj", "{4585F540-E2AF-4121-952C-16411F6DE6CA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{124CFE28-C912-4AB2-B322-5A9F542C3F13} = {124CFE28-C912-4AB2-B322-5A9F542C3F13}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
