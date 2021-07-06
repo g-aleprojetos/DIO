@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/g-aleprojetos/DIO/tree/main/Bootcamps/Santander/microsservi%C3%A7os%20usando%20Spring%20Cloud/dio-experts-config.git
+          uri: https://github.com/g-aleprojetos/DIO/tree/main/Bootcamps/Santander/microsservi%C3%A7os%20usando%20Spring%20Cloud/dio-experts-config
