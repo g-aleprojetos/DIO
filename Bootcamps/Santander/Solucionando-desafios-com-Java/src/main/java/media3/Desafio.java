@@ -9,7 +9,7 @@ public class Desafio {
         Scanner sc = new Scanner(System.in);
         sc.useLocale(Locale.ENGLISH);
         Locale.setDefault(new Locale("en", "US"));
-        DecimalFormat df = new DecimalFormat("###.##");
+        DecimalFormat df = new DecimalFormat("#.#");
 
         float n1,n2,n3,n4,media,emexame,emexamefinal;
 
@@ -19,6 +19,7 @@ public class Desafio {
         n4 = sc.nextFloat();
 
         media = ((n1 * 2) + (n2 * 3) + (n3 * 4) + (n4 * 1)) / 10;
+        media = Float.parseFloat(df.format(media));
 
         System.out.printf("Media: %.1f\n",media);
 
@@ -34,6 +35,7 @@ public class Desafio {
             System.out.printf("Nota do exame: %.1f\n",emexame );
 
             emexamefinal = (emexame + media)/2;
+            emexamefinal = Float.parseFloat(df.format(emexamefinal));
 
             if( emexamefinal >= 5.0 ){
                 System.out.printf("Aluno aprovado.\n");
